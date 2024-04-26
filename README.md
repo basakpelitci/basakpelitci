@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @basakpelitci
 - 👀 I’m interested in Java
-- 🌱 I’m currently learning AWS
-- 💞️ I’m looking to collaborate on Amazon
+- 🌱 I’m currently learning Azure
+
 
 
 <!---
